@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tokenizin-agency-mcp-npx-fetch-badge.png)](https://mseep.ai/app/tokenizin-agency-mcp-npx-fetch)
+
 # MCP NPX Fetch
 
 <div align="center">
